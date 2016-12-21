@@ -1,6 +1,6 @@
 # Online web store
 
-Online store with interoperability with PRIMAVERA ERP
+Online store with interoperability with PRIMAVERA ERP/Uses Big Store template for frontend
 
 ##Project Overview 
 The project consists on the creation of a web store that offers all the functionalities expected from such a site, like:

@@ -26,6 +26,7 @@ This Web App accesses and uses the services of the PRIMAVERA REST API for the Mo
 ![home](https://cloud.githubusercontent.com/assets/9083330/21509612/88f081d2-cc82-11e6-83b5-1544b843bd5b.PNG)
 ![login](https://cloud.githubusercontent.com/assets/9083330/21509613/890488f8-cc82-11e6-853d-cdc1aac569cd.PNG)
 ![categories](https://cloud.githubusercontent.com/assets/9083330/21509611/88f02548-cc82-11e6-8147-8cbdbb1a631b.PNG)
+![ps](https://cloud.githubusercontent.com/assets/9083330/21509681/3e787d34-cc83-11e6-8f33-ccbc97b3cced.PNG)
 ![prod](https://cloud.githubusercontent.com/assets/9083330/21509614/8906093a-cc82-11e6-8b91-ed599658b8e7.PNG)
 ![cart](https://cloud.githubusercontent.com/assets/9083330/21509615/89076b9a-cc82-11e6-8561-d57fa01208a2.PNG)
 ![checkou](https://cloud.githubusercontent.com/assets/9083330/21509607/88ee0678-cc82-11e6-8902-09f548dfeb3e.PNG)
